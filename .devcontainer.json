@@ -1,0 +1,5 @@
+{
+    "dockerComposeFile": "compose.dev.yaml",
+    "service": "Laravel",
+    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+}
